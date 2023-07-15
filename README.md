@@ -15,3 +15,9 @@ Source: ChatGPT
 *Python 3.11*
 
 # What I Learned
+
+1. Importing modules
+2. Working with dates and times
+3. Looping and conditional statements
+4. User input
+5. Sound playback
